@@ -4,7 +4,7 @@ const Inquiries = () => {
   return (
     <div
       id="inquiries"
-      className="flex flex-col justify-center items-center w-screen bg-white"
+      className="flex flex-col justify-center items-center w-screen bg-white 2xl:pb-[100px]"
     >
       <div data-aos="fade-up">
         <div className="container flex md:flex-row sm:flex-col-reverse justify-center items-center md:pt-[100px] md:pb-[100px] sm:pt-[50px] sm:pb-[50px] mx-auto my-4 px-4 lg:px-20">

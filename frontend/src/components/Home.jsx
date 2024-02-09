@@ -7,7 +7,7 @@ const Home = () => {
         <h1 className="text-center text-[#65451F] sm:text-4xl md:text-6xl md:pt-[100px] lg:text-6xl lg:pt-[100px] xl:pt-[100px] xl:text-7xl 2xl:text-8xl pb-[10px]">
           Hi I'm
         </h1>
-        <h1 className="text-center text-[#765827] sm:text-2xl md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-6xl pb-[10px]">
+        <h1 className="text-center textgit remote add origin https://github.com/Knthbtsta/portfolio.git-[#765827] sm:text-2xl md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-6xl pb-[10px]">
          <Typewriter text="John Kenneth O. Bautista" delay={70}/>
         </h1>
         <h1 className="text-center text-[#765827] sm:text-base  md:text-1xl lg:text-2xl xl:text-3xl 2xl:text-3xl pb-[10px]">

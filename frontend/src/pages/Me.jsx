@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import About from "./About";
 import Footer from "../components/Footer";
-import Home from "../components/home";
+import Home from "../components/Home";
 import Inquiries from "../components/Inquiries";
 import Menu from "../components/Menu";
 import Portfolio from "../components/Portfolio";

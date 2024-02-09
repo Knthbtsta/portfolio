@@ -9,7 +9,7 @@ function Portfolio() {
       <div data-aos="zoom-in-down">
         <div>
           <h1 className="text-center text-[#765827] sm:my-[10px] md:mt-[70px] sm:text-3xl md:text-4xl lg:text-4xl xl:text-5xl 2xl:text-5xl">
-            PORTFOLIO
+            PROJECTS
           </h1>
           <p className="text-[#765827] md:mt-[30px] text-center sm:text-sm 2xl:text-lg lg:text-lg md:text-lg">
             I invite you to explore my portfolio, a curated collection

@@ -7,7 +7,7 @@ const Inquiries = () => {
       className="flex flex-col justify-center items-center w-screen bg-white 2xl:pb-[100px]"
     >
       <div data-aos="fade-up">
-        <div className="container flex md:flex-row sm:flex-col-reverse justify-center items-center md:pt-[100px] md:pb-[100px] sm:pt-[50px] sm:pb-[50px] mx-auto my-4 px-4 lg:px-20">
+        <div className="container flex md:flex-row sm:flex-col-reverse justify-center items-center md:pt-[100px] md:pb-[100px] sm:pt-[1gi0px] sm:pb-[50px] mx-auto my-4 px-4 lg:px-20">
           <div className="w-full p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-40 mr-auto rounded-2xl shadow-2xl bg-[#C8AE7D]">
             <div className="flex">
               <h1 className="font-bold uppercase text-[#765827] sm:text-3xl text-5xl">

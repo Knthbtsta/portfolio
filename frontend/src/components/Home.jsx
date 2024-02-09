@@ -15,7 +15,7 @@ const Home = () => {
           Hi I'm
         </h1>
         <h1 className="text-center text-[#765827] sm:text-2xl md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-6xl pb-[10px]">
-         <Typewriter text="John Kenneth O. Bautista" delay={70}/>
+          <Typewriter text="John Kenneth O. Bautista" delay={70} />
         </h1>
         <h1 className="text-center text-[#765827] sm:text-base  md:text-1xl lg:text-2xl xl:text-3xl 2xl:text-3xl pb-[10px]">
           <Typewriter
@@ -24,7 +24,6 @@ const Home = () => {
           />
         </h1>
         <a
-          data-aos="fade-up"
           href="#Menu"
           className="flex flex-col justify-center items-center px-3 py-4 font-medium text-center sm:w-[130px] sm:h-[40px] sm:text-sm md:w-[200px] md:h-[50px] md:text-lg lg:w-[200px] lg:h-[50px] lg:text-lg xl:w-[250px] xl:h-[50px] xl:text-2xl 2xl:w-[250px] 2xl:h-[50px] 2xl:text-2xl text-white bg-[#765827] rounded-lg hover:bg-[#C8AE7D] hover:text-[#65451F] dark:bg-[#765827]"
         >

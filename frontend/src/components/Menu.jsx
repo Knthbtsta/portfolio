@@ -106,36 +106,36 @@ function Menu() {
       </div>
       <div
         data-aos="zoom-in-down"
-        className="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto 2xl:pb-[100px] sm:pb-[10px]"
+        className="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto 2xl:pb-[100px] sm:pb-[5px]"
       >
-        <div className="text-[#65451F] text-[50px] pb-10 justify-center text-center sm:pb-[100px]">
-          SKILLS
+        <div className="text-[#65451F] text-[50px] sm:text-[30px] lg:pb-[200px] justify-center text-center sm:pb-[100px]">
+          Programming Languages & Tools
         </div>
         <div className="grid sm:grid-cols-1 lg:grid-cols-4 items-center gap-12">
           {/* Icon Block */}
           <div className="text-center">
-            <div className="flex justify-center items-center w-[250px] h-[250px] mx-auto sm:pb-[100px]">
+            <div className="flex justify-center items-center w-[200px] h-[200px] mx-auto sm:pb-[100px]">
               <JavaOriginalWordmark size="800" />
             </div>
           </div>
           {/* End Icon Block */}
           {/* Icon Block */}
           <div className="text-center">
-            <div className="flex justify-center items-center w-[190px] h-[190px] mx-auto sm:pb-[100px]">
+            <div className="flex justify-center items-center w-[180px] h-[180px] mx-auto sm:pb-[100px]">
               <ReactOriginalWordmark size="800" />
             </div>
           </div>
           {/* End Icon Block */}
           {/* Icon Block */}
           <div className="text-center">
-            <div className="flex justify-center items-center w-[190px] h-[190px] mx-auto sm:pb-[100px]">
+            <div className="flex justify-center items-center w-[180px] h-[180px] mx-auto sm:pb-[100px]">
               <TailwindcssOriginal size="800" />
             </div>
           </div>
           {/* End Icon Block */}
           {/* Icon Block */}
           <div className="text-center">
-            <div className="flex justify-center items-center w-[190px] h-[190px] mx-auto sm:pb-[100px]">
+            <div className="flex justify-center items-center w-[170px] h-[170px] mx-auto sm:pb-[100px]">
               <JavascriptOriginal size="800" />
             </div>
           </div>
